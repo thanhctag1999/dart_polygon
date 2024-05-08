@@ -13,4 +13,5 @@ Use your swipe left or right, up or down to move the tiles. When two tiles with 
 <img src='./image/image_1.jpg' width=50%>
 <img src='./image/image_2.jpg' width=50%>
 <img src='./image/image_3.jpg' width=50%>
-<img src='./image/image_4.jpg' width=50%>
+<img src='./image/image_4_update.png' width=50%>
+<img src='./image/image_5_update.png' width=50%>
